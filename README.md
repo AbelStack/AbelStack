@@ -100,11 +100,7 @@
   </a>
 </div>
 
-## 📈 Profile Views
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AbelStack/count.svg" alt="Visitor Count" />
-</div>
 
 <!-- Aesthetic Footer -->
 <div align="center">
