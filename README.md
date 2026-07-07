@@ -26,7 +26,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20love%20to%20code%20and%20create%20🌟;Always%20learning%20new%20things%20🚀;Building%20cool%20projects%20💡&center=true&size=24&color=00F5FF" />
 </p>
 
-- 👋 Hi, I'm **Abel Tewodros**, a 3rd-year **Software Engineering student**.  
+- 👋 Hi, I'm **Abel Tewodros**, a 4th-year **Software Engineering student**.  
 - 💡 I enjoy making simple, creative, and useful projects.  
 - 🌱 I'm learning more about **coding, algorithms, and system design**.  
 - 👨‍💻 I love building **web apps and software that solve problems**.  
