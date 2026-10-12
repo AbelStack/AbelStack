@@ -4,9 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=6F3AFF&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver;Continuous+Learner;" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=120&section=header&animation=fadeIn&fontAlignY=30&desc=Building%20the%20Future%20with%20Code&descAlignY=50&descSize=22&fontColor=f0f0f0&descColor=f8f8f8&fontFamily=Poppins" width="100%" />
-</div>
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/AbelStack?tab=followers">
